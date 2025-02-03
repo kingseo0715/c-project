@@ -88,3 +88,5 @@ namespace Flappy_Bird_Windows_form
 update code +++++
 =======
 >>>>>>> a0a59cf0512e4829c649f807a4d42ce6b5a655ca
+
+main 기준으로 커밋
