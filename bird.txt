@@ -84,4 +84,7 @@ namespace Flappy_Bird_Windows_form
 
 테스트2
 테스트3
+<<<<<<< HEAD
 update code +++++
+=======
+>>>>>>> a0a59cf0512e4829c649f807a4d42ce6b5a655ca
